@@ -1,0 +1,44 @@
+node_modules
+.DS_Store
+.temp
+/build
+/docs/.vitepress/cache
+/docs/.vitepress/dist
+
+# IDEs and editors
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Log files
+*.log
+
+# Dependency directories
+/dependencies
+/Packages
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# pnpm
+.pnpm-store/
+
+# Optional files
+.env
+*.orig
+*.swp
+*.bak
+*.tmp
