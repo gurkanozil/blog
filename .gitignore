@@ -2,6 +2,7 @@ node_modules
 .DS_Store
 .temp
 /build
+.vitepress
 /docs/.vitepress/cache
 /docs/.vitepress/dist
 

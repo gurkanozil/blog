@@ -20,7 +20,7 @@ export default defineConfig({
     // Navigation links
     nav: [
       { text: "Home", link: "/" },
-      { text: "Blog", link: "/blog/" },
+      { text: "Blog", link: "/posts/" },
       { text: "Portfolio", link: "https://gurkanozil.github.io" },
     ],
 
@@ -28,8 +28,8 @@ export default defineConfig({
     sidebar: [
       {
         text: "My Personal Blog!",
-        link: "/blog/",
-        items: [{ text: "My Story", link: "/blog/my-story" }],
+        link: "/posts/",
+        items: [{ text: "My Story", link: "/posts/my-story" }],
       },
     ],
 
