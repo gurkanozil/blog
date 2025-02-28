@@ -29,7 +29,26 @@ export default defineConfig({
       {
         text: "My Personal Blog!",
         link: "/posts/",
-        items: [{ text: "My Story", link: "/posts/my-story" }],
+        items: [
+          { text: "My Story", link: "/posts/my-story" },
+          {
+            text: "Customization Journey",
+            link: "/posts/customization-journey",
+          },
+          {
+            text: "Optimizing Life With Tech",
+            link: "/posts/optimizing-life-with-tech",
+          },
+          {
+            text: "Neurodivergence and Hyperfocus",
+            link: "/posts/neurodivergence-hyperfocus",
+          },
+          {
+            text: "Balancing Multiple Interests",
+            link: "/posts/balancing-interests",
+          },
+          { text: "SWOT Analysis", link: "/posts/swot-analysis" },
+        ],
       },
     ],
 

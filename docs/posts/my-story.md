@@ -1,4 +1,9 @@
-## My Journey into Technology and Self-Discovery
+---
+title: "My Story: A Journey Through Technology, Neurodivergence, and Self-Discovery"
+description: An autobiographical exploration of my journey into technology, my experiences with neurodivergence and hyperfocus, and my approach to balancing multiple interests.
+---
+
+# My Journey into Technology and Self-Discovery
 
 ### Early Exposure to Technology
 
@@ -14,13 +19,13 @@ My first experiences with HTML were mostly from tutorials, where I learned what 
 
 ### The Love for Customization
 
-Over time, I became deeply involved in **customization**. I enjoy personalizing everything I touch, from my operating system (I use Arch Linux btw) to my software tools, to my phone. This interest taught me to troubleshoot and fix bugs, as making changes often broke the system or software. I would research the causes of these issues, make the necessary changes, and test until I was satisfied with the result. This problem-solving process has become a cornerstone of my career and personal growth.
+Over time, I became deeply involved in **customization**. I enjoy personalizing everything I touch, from my operating system (I use Arch Linux btw) to my software tools, to my phone. This interest taught me to troubleshoot and fix bugs, as making changes often broke the system or software. I would research the causes of these issues, make the necessary changes, and test until I was satisfied with the result. This problem-solving process has become a cornerstone of my career and personal growth. You can read more about my customization journey [here](./customization-journey).
 
 ## Neurodivergence and Hyperfocus
 
 ### Embracing Neurodivergence
 
-One of the most important elements of my personality is my neurodivergence, something I’ve come to appreciate as a gift rather than a limitation. It means that when I find something that excites me, I can dive into it with a level of **hyperfocus** that lets me immerse myself in details others might miss. Whether it’s working on cars, fitness, reading about anatomy, studying psychology, or diving into philosophy, I get a sense of joy from going deep into topics and understanding them on a level that truly resonates with me.
+One of the most important elements of my personality is my neurodivergence, something I’ve come to appreciate as a gift rather than a limitation. It means that when I find something that excites me, I can dive into it with a level of **hyperfocus** that lets me immerse myself in details others might miss. Whether it’s working on cars, fitness, reading about anatomy, studying psychology, or diving into philosophy, I get a sense of joy from going deep into topics and understanding them on a level that truly resonates with me. You can read more about how I use hyperfocus [here](./neurodivergence-hyperfocus).
 
 ### Becoming the Expert in My Circle
 
@@ -34,7 +39,7 @@ I sometimes spend weeks, if not months, researching topics I find intriguing. My
 
 ### Compartmentalizing My Day
 
-I often balance my hobbies and interests using **compartmentalization** and prioritizing tasks throughout the day. I dedicate specific time for my physical health, diet, and exercise, while also making space to learn, read, and apply new knowledge. For example, after discovering a new exercise, I would research it and apply it to my daily fitness routine. This allows me to integrate both physical and intellectual pursuits into my life seamlessly.
+I often balance my hobbies and interests using **compartmentalization** and prioritizing tasks throughout the day. I dedicate specific time for my physical health, diet, and exercise, while also making space to learn, read, and apply new knowledge. For example, after discovering a new exercise, I would research it and apply it to my daily fitness routine. This allows me to integrate both physical and intellectual pursuits into my life seamlessly. You can read more about balancing interests [here](./balancing-interests).
 
 ## Career Aspirations and Flexibility
 
@@ -42,10 +47,12 @@ I often balance my hobbies and interests using **compartmentalization** and prio
 
 While I don’t have specific goals due to the broad nature of my interests, this flexibility allows me to excel in everything I do. I am always eager to learn new skills and approach tasks with a mindset of continuous improvement. The drive to excel keeps me flexible, allowing me to adapt to new challenges and grow in whatever direction the world takes me.
 
+However, this also has its downsides like the difficulty in finding a technology or language to specialise in, you can read more about this in my [SWOT analysis](./swot-analysis).
+
 ## Technology's Role in My Life
 
 ### Optimizing My Life with Technology
 
-Technology has shaped my life in profound ways. It has instilled a desire in me to improve and optimize everything I do. This has led me to write software that automates tasks on my PC and implement **Apple Shortcuts** on my iPhone to perform certain tasks at set times or events. These automations have made my life more efficient and allowed me to focus on multiple things at once, freeing up mental space for more important pursuits.
+Technology has shaped my life in profound ways. It has instilled a desire in me to improve and optimize everything I do. This has led me to write software that automates tasks on my PC and implement **Apple Shortcuts** on my iPhone to perform certain tasks at set times or events. These automations have made my life more efficient and allowed me to focus on multiple things at once, freeing up mental space for more important pursuits. You can read more about optimizing my life with tech [here](./optimizing-life-with-tech).
 
 ---
