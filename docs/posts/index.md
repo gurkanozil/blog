@@ -10,12 +10,13 @@ Welcome to my blog! Here, I share my thoughts and experiences on technology, per
 **Explore My Posts:**
 
 - **My Story:** Pivotal moments in my tech journey. [Read more](./my-story)
-- **Customization Journey:** Customization's impact on my problem-solving. [Read more](./customization-journey)
-- **Optimizing Life With Tech:** Enhancing productivity with technology. [Read more](./optimizing-life-with-tech)
-- **Neurodivergence and Hyperfocus:** Harnessing hyperfocus as a neurodivergent individual. [Read more](./neurodivergence-hyperfocus)
-- **Balancing Multiple Interests:** Managing interests and avoiding burnout. [Read more](./balancing-interests)
-- **SWOT Analysis:** My strengths, weaknesses, opportunities, and threats. [Read more](./swot-analysis)
-- **Note-Taking System:** Capture and organize research ideas efficiently. [Read more](./note-taking-system)
+- **Customization Journey:** Customization's impact on my problem-solving approach. [Read more](./customization-journey)
+- **Optimizing Life With Tech:** Enhancing productivity and well-being through technology. [Read more](./optimizing-life-with-tech)
+- **Neurodivergence and Hyperfocus:** Understanding and leveraging hyperfocus as a neurodivergent individual. [Read more](./neurodivergence-hyperfocus)
+- **Balancing Multiple Interests:** Strategies for managing diverse interests and preventing burnout. [Read more](./balancing-interests)
+- **SWOT Analysis:** A personal SWOT analysis: strengths, weaknesses, opportunities, and threats. [Read more](./swot-analysis)
+- **Note-Taking System:** An efficient system to capture and organize research ideas. [Read more](./note-taking-system)
+- **Quotes:** A collection of inspiring and thought-provoking quotes. [Read more](./quotes)
 
 **Get Started:**
 

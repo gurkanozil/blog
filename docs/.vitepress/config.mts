@@ -49,6 +49,7 @@ export default defineConfig({
           },
           { text: "SWOT Analysis", link: "/posts/swot-analysis" },
           { text: "Note-Taking System", link: "/posts/note-taking-system" },
+          { text: "Quotes", link: "/posts/quotes" },
         ],
       },
     ],
