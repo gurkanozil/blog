@@ -15,6 +15,7 @@ Welcome to my blog! Here, I share my thoughts and experiences on technology, per
 - **Neurodivergence and Hyperfocus:** Harnessing hyperfocus as a neurodivergent individual. [Read more](./neurodivergence-hyperfocus)
 - **Balancing Multiple Interests:** Managing interests and avoiding burnout. [Read more](./balancing-interests)
 - **SWOT Analysis:** My strengths, weaknesses, opportunities, and threats. [Read more](./swot-analysis)
+- **Note-Taking System:** Capture and organize research ideas efficiently. [Read more](./note-taking-system)
 
 **Get Started:**
 

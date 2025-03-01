@@ -48,6 +48,7 @@ export default defineConfig({
             link: "/posts/balancing-interests",
           },
           { text: "SWOT Analysis", link: "/posts/swot-analysis" },
+          { text: "Note-Taking System", link: "/posts/note-taking-system" },
         ],
       },
     ],
