@@ -114,6 +114,27 @@ Use this for brainstorming and visualizing connections between topics and ideas 
 - **Carry Different Notebooks for Different Contexts**: Each notebook serves a different purpose, making it easy to jot down ideas wherever you are.
 - **Create an Index**: Maintain a simple index in each notebook to help you quickly locate topics or ideas you’ve written about.
 
+## What to Document in a Field Note
+
+What you document in a field note depends on what you’re working on, but here are some considerations:
+
+- **Location and Time**: Always capture specific location data and date/time information. Where are you exactly? What day and time is it? What is the weather like?
+- **Sensory Details**: Describe what you’re experiencing in a specific and factual way. What do you see? What do you hear? What do you smell? What’s around you? Try to be as objective, factual, specific, and detailed as possible.
+- **Descriptive Specificity**: Always be descriptive and specific. Describe specific information. Show, don’t tell. For example, don’t tell us that something is cozy, but show us it is cozy by describing specific details that contribute to coziness.
+- **People**: If your work involves people, describe what they are doing and saying in a specific and factual way. Take down names, verbatim quotes, and behavioral quirks. Try to document as objectively as possible.
+- **Feelings**: Describe your feelings. What does it feel like to be in a place? Do you feel happiness? Fear? Anger? Peace? What are your reflections, impressions, speculations, and hunches? This is the subjective stuff, and it is important.
+- **Audio**: Record audio of ambient noise and interviews with permission.
+
+## Why Take Field Notes?
+
+Field notes are an essential part of the creative process and can significantly enhance your work.
+
+- **Comprehensive Data**: Field notes provide a massive body of information to work with, including notes, audio documents, and photographic evidence.
+- **Raw Material**: Field notes are the unpolished gemstones, the raw material that will later get shaped into a final form.
+- **Memory Aid**: They help in remembering details, which aids in accuracy and honesty in your work.
+- **Productivity Hack**: Note-taking is a productivity hack and a memory aid, creating a record of the world and your experience in it.
+- **Staying Present**: Taking notes and staying present are synonymous, involving observation and acknowledgment of what you’re seeing and experiencing.
+
 ## Note-Taking Methods (From Various Online Sources):
 
 #1: The Outline Method – Best Note-Taking Method for Organized Notes
