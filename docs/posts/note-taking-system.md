@@ -3,9 +3,9 @@ title: Note-Taking System for Research Ideas
 description: A system combining multiple methods to efficiently capture and organize random ideas and topics for future research.
 ---
 
-# Note-Taking System
+# Note-Taking System - Commonplace Notes
 
-This system combines methods to efficiently capture/organize research ideas. Primarily for personal use, I'll experiment with various note-taking methods, potentially incorporating systems listed at the end. Each notebook serves a specific purpose: capture ideas on the go, organize for research, visualize connections.
+This system combines methods to efficiently capture/organize research ideas. Primarily for personal use, I'll experiment with various note-taking methods, potentially incorporating systems listed at the end. Each notebook serves a specific purpose: capture ideas on the go, organize for research, visualize connections. This system can also be used in conjunction with other note-taking methodologies, such as the [VOMIT System](./VOMIT), to enhance overall effectiveness.
 
 ## 1. Pocket Notebook (Idea Capture)
 

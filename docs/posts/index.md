@@ -17,6 +17,7 @@ Welcome to my blog! Here, I share my thoughts and experiences on technology, per
 - **SWOT Analysis:** A personal SWOT analysis: strengths, weaknesses, opportunities, and threats. [Read more](./swot-analysis)
 - **Note-Taking System:** An efficient system to capture and organize research ideas. [Read more](./note-taking-system)
 - **Quotes:** A collection of inspiring and thought-provoking quotes. [Read more](./quotes)
+- **VOMIT System:** A comprehensive guide to note-taking & journaling. [Read more](./VOMIT)
 
 **Get Started:**
 
