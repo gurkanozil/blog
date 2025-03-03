@@ -1,5 +1,5 @@
 ---
-title: VOMIT System, A Comprehensive Guide to Note-Taking & Journaling
+title: "VOMIT System: A Comprehensive Guide to Note-Taking & Journaling"
 description: A structured journaling and note-taking method designed to enhance mental clarity, facilitate effective problem-solving, and boost overall productivity.
 ---
 
