@@ -1,3 +1,8 @@
+---
+title: "SWOT Analysis: Understanding My Current Position"
+description: A personal SWOT analysis to evaluate Strengths, Weaknesses, Opportunities, and Threats for self-reflection and career planning.
+---
+
 # SWOT Analysis: Understanding My Current Position
 
 SWOT analysis helps you evaluate **S**trengths, **W**eaknesses, **O**pportunities, and **T**hreats. It's a strategic tool for projects, businesses, and personal growth. It gives you a framework to look at internal and external factors affecting your goals. First, define your goal, then identify SWOT elements related to it.
