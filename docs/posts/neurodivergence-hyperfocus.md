@@ -11,7 +11,9 @@ Neurodivergence, encompassing variations in cognitive functions and behavioral p
 
 ## Unleashing the Power of Hyperfocus
 
-Hyperfocus allows me to become deeply absorbed in subjects of great interest, including automotive engineering, physical fitness, and emerging technologies. This heightened concentration facilitates a comprehensive understanding that deeply resonates with me. Whether it involves identifying car models by subtle differences in headlight design or offering insightful advice based on specialized knowledge, my hyperfocus has consistently proven valuable to others.
+Hyperfocus allows me to become deeply absorbed in subjects of great interest, including automotive engineering, physical fitness, and emerging technologies. This heightened concentration facilitates a comprehensive understanding that deeply resonates with me.
+
+Whether it involves identifying car models by subtle differences in headlight design or offering insightful advice based on specialized knowledge, my hyperfocus has consistently proven valuable to others.
 
 ## Hyperfocus as a Catalyst for Lifelong Learning
 

@@ -9,7 +9,7 @@ description: An autobiographical exploration of my journey into technology, my e
 
 When I was a young kid, about 10 years old, I was first exposed to the internet when my brother allowed me to use his PC while he went out. Naturally, I was curious. "What is this?" I asked.
 
-"This is the internet!" He said. "I can play RuneScape, World of Warcraft, watch YouTube videos, and message my friends." He showed me his in-game character, a funny cat video, and a chat window buzzing with messages. "Pretty cool, huh?"
+"This is the internet!" He said. "I can play RuneScape, World of Warcraft, watch YouTube videos, and message my friends." He showed me his in-game character, a funny cat video, and a chat window buzzing with messages.
 
 That simple question sparked something in me. Soon after, I began exploring the internet on my own. I discovered YouTube, watching countless videos on various topics. I also found streamers playing video games, most notably Minecraft. I even went through a phase of installing cracked versions before finally purchasing the game. It was through Minecraft that I discovered the world of **Minecraft mods**, fascinated by how a few lines of code in **Java** could transform a game. My curiosity only grew as I explored the rest of the world wide web. The more I explored, the more I realized that the only real limit to what could be created was imagination itself.
 
